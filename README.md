@@ -57,3 +57,8 @@ Marker and Camera Updates:
 ## The camera is updated to center the map on the current location or destination.
 ## Map Type Toggle:
 _toggleMapType: Allows the user to switch between different map types (normal, satellite, terrain).
+
+
+![WhatsApp Image 2024-10-05 at 23 55 26_c0dec674](https://github.com/user-attachments/assets/93988ca1-7ddf-4bad-8c89-929f5ea7b0b1)
+
+![WhatsApp Image 2024-10-05 at 23 55 26_689dbff6](https://github.com/user-attachments/assets/a48409cb-1b88-42f4-aa5d-857461c264cf)
